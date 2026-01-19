@@ -117,7 +117,7 @@
     "use-font-face-observer": "^1.2.1",
     "valibot": "0.38.0",
     "viem": "2.21.54",
-    "wagmi": "2.14.0",
+    "wagmi": "3.0.0",
     "xss": "^1.0.14"
   },
   "devDependencies": {
