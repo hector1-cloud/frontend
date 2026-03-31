@@ -113,11 +113,11 @@
     "react-number-format": "^5.3.1",
     "react-scroll": "^1.8.7",
     "rollbar": "2.26.4",
-    "swagger-ui-react": "^5.9.0",
+    "swagger-ui-react": "^5.30.3",
     "use-font-face-observer": "^1.2.1",
-    "valibot": "0.38.0",
+    "valibot": "1.2.0",
     "viem": "2.21.54",
-    "wagmi": "2.14.0",
+    "wagmi": "3.0.0",
     "xss": "^1.0.14"
   },
   "devDependencies": {
