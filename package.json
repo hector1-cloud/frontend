@@ -115,7 +115,7 @@
     "rollbar": "2.26.4",
     "swagger-ui-react": "^5.9.0",
     "use-font-face-observer": "^1.2.1",
-    "valibot": "0.38.0",
+    "valibot": "1.4.2",
     "viem": "2.21.54",
     "wagmi": "2.14.0",
     "xss": "^1.0.14"
